@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite hostname="ROCK-LP130" name="resmedtest.GetPlace" tests="1" failures="0" timestamp="24 Sep 2017 12:47:18 GMT" time="2.953" errors="0">
+  <testcase name="getPlaceAPI" time="2.937" classname="resmedtest.GetPlace"/>
+</testsuite>

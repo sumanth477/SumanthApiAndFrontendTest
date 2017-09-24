@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite hostname="ROCK-LP130" name="resmedtest.GetPlace" tests="4" failures="0" timestamp="24 Sep 2017 12:57:28 GMT" time="15.662" errors="0">
+  <testcase name="getPlaceAPI" time="2.838" classname="resmedtest.GetPlace"/>
+  <testcase name="AddandDeletePlace" time="0.908" classname="resmedtest.PostAndDelete"/>
+  <testcase name="createPlaceAPI" time="0.609" classname="resmedtest.PostPlace"/>
+  <testcase name="testLogin" time="11.268" classname="resmedtest.ResmedHomPage"/>
+</testsuite>

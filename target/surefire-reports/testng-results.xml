@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="15662" started-at="2017-09-24T22:57:12Z" finished-at="2017-09-24T22:57:28Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="15662" started-at="2017-09-24T22:57:12Z" finished-at="2017-09-24T22:57:28Z">
+      <class name="resmedtest.PostAndDelete">
+        <test-method status="PASS" signature="AddandDeletePlace()" name="AddandDeletePlace" duration-ms="908" started-at="2017-09-24T22:57:15Z" finished-at="2017-09-24T22:57:16Z">
+        </test-method>
+      </class>
+      <class name="resmedtest.PostPlace">
+        <test-method status="PASS" signature="createPlaceAPI()" name="createPlaceAPI" duration-ms="609" started-at="2017-09-24T22:57:16Z" finished-at="2017-09-24T22:57:17Z">
+        </test-method>
+      </class>
+      <class name="resmedtest.GetPlace">
+        <test-method status="PASS" signature="getData()" name="getData" is-config="true" duration-ms="28" started-at="2017-09-24T22:57:12Z" finished-at="2017-09-24T22:57:13Z">
+        </test-method>
+        <test-method status="PASS" signature="getData()" name="getData" is-config="true" duration-ms="0" started-at="2017-09-24T22:57:13Z" finished-at="2017-09-24T22:57:13Z">
+        </test-method>
+        <test-method status="PASS" signature="getData()" name="getData" is-config="true" duration-ms="0" started-at="2017-09-24T22:57:13Z" finished-at="2017-09-24T22:57:13Z">
+        </test-method>
+        <test-method status="PASS" signature="getPlaceAPI()" name="getPlaceAPI" duration-ms="2838" started-at="2017-09-24T22:57:13Z" finished-at="2017-09-24T22:57:15Z">
+        </test-method>
+      </class>
+      <class name="resmedtest.ResmedHomPage">
+        <test-method status="PASS" signature="testLogin()" name="testLogin" duration-ms="11268" started-at="2017-09-24T22:57:17Z" finished-at="2017-09-24T22:57:28Z">
+        </test-method>
+      </class>
+    </test>
+  </suite>
+</testng-results>
